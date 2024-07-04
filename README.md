@@ -6,3 +6,5 @@ CRUD - cruddemo is a project where i make use of the basic CRUD operations whit 
 CRUD – with-spring-data-jpa - project where i make use of the basic 
 CRUD operations whit Spring JPA.
 CRUD-spring-data-rest refactore of the both codes from above using SPRING DATA REST.
+Spring-boot-security : starting to add base security features to my project.
+Adding specific roles to the users also adding restrictions to the unautorised users.
