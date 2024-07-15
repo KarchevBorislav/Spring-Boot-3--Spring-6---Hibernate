@@ -13,3 +13,5 @@ CRUD operations whit Spring JPA.
 CRUD-spring-data-rest refactore of the both codes from above using SPRING DATA REST.
 
 Spring-boot-rest-security - Using hardcoded code version .
+
+ValidationDemo - Creating a simple MVC and using basic validation in it.
