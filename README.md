@@ -15,3 +15,4 @@ CRUD-spring-data-rest refactore of the both codes from above using SPRING DATA R
 Spring-boot-rest-security - Using hardcoded code version .
 
 ValidationDemo - Creating a simple MVC and using basic validation in it.
+ValidationDemo2 - simple update of the previous code whit simple validation and creating custom anotation.
