@@ -16,3 +16,5 @@ Spring-boot-rest-security - Using hardcoded code version .
 
 ValidationDemo - Creating a simple MVC and using basic validation in it.
 ValidationDemo2 - simple update of the previous code whit simple validation and creating custom anotation.
+
+CRUD-MVC Project - simple MVC project whit tThymeleaf where i can add Employees to the DB also delete and Update the Employees.
