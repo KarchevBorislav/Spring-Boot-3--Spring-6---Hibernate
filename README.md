@@ -18,3 +18,15 @@ ValidationDemo - Creating a simple MVC and using basic validation in it.
 ValidationDemo2 - simple update of the previous code whit simple validation and creating custom anotation.
 
 CRUD-MVC Project - simple MVC project whit tThymeleaf where i can add Employees to the DB also delete and Update the Employees.
+
+demosecurity-hardcoded  -is a simple Spring Security MVC project using Hardcoded Data for Employees.
+It also contains:
+-Secure Spring MVC Web Apps
+-Develop login pages(default and custom)
+-Define users and roles whit simple authentication
+-Protect URLS based on roles
+-Hide/show content based on a role
+
+demosecurity - an Update on the previous project using DB for employees and also :
+-Store usage password and roles in DB(plain-text->encrypted)
+
