@@ -30,3 +30,13 @@ It also contains:
 demosecurity - an Update on the previous project using DB for employees and also :
 -Store usage password and roles in DB(plain-text->encrypted)
 
+crudDemoOneToOneMapping:
+Simple OneToOne Mapping operations like:
+-Adding an Instructor to the DB
+-Finfing an Instructor by id
+-Deleting an Instructor via id
+
+crudDemoOneToOneMapping-BiDirectional:
+Covering Bderectional OneToOne
+
+
